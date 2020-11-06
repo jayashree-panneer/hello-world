@@ -1,3 +1,4 @@
 # hello-world
-Boo humans 
-Try to swim in moon water..if it has
+1.Boo humans 
+2.Welcome to the world of me(boo) .
+3.start being crazy
